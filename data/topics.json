@@ -1,0 +1,471 @@
+[
+  {
+    "slug": "audit-framework",
+    "title": "Audit Framework & Ethics",
+    "summary": "Build a strong base in assurance, audit purpose, and the ethical safeguards that protect independence.",
+    "concept": [
+      "External audit provides reasonable assurance that the financial statements are free from material misstatement. It reduces information risk for shareholders but does not guarantee that every error or fraud will be found.",
+      "The assurance framework requires a three-party relationship, suitable subject matter, suitable criteria, sufficient appropriate evidence, and a written conclusion. If one element is weak, the value of the engagement falls.",
+      "Ethics underpin every audit judgement. The ACCA exam repeatedly tests integrity, objectivity, professional competence and due care, confidentiality, and professional behavior together with threats and safeguards."
+    ],
+    "examPoints": [
+      "Explain why audit gives credibility to financial statements without taking over management's role.",
+      "Differentiate reasonable assurance, limited assurance, and absolute assurance.",
+      "Apply ethical threats to realistic scenarios such as long association, gifts, overdue fees, or provision of non-audit services.",
+      "Match each ethical threat with workable safeguards rather than listing theory only."
+    ],
+    "examples": [
+      {
+        "title": "Overdue audit fees",
+        "body": "If last year's fee remains unpaid for a long period, the firm may in substance be financing the client. This creates a self-interest threat and may require fee settlement before continuing."
+      },
+      {
+        "title": "Preparation of accounting records",
+        "body": "If the audit firm prepares the primary accounting records for a non-small listed client and then audits them, the self-review threat is severe because the auditor would be checking their own work."
+      }
+    ],
+    "mistakes": [
+      "Saying an unmodified opinion proves the figures are correct.",
+      "Stating threats without discussing safeguards or whether the engagement should be refused.",
+      "Confusing management's duty to prepare financial statements with the auditor's duty to express an opinion."
+    ],
+    "revision": [
+      "Audit adds credibility, not certainty.",
+      "Reasonable assurance is high but not absolute.",
+      "Ethical issues should be answered using threat plus safeguard.",
+      "Management prepares the statements; the auditor evaluates and reports."
+    ]
+  },
+  {
+    "slug": "quality-control",
+    "title": "Quality Management & Engagement Acceptance",
+    "summary": "Understand how firms maintain audit quality through leadership, acceptance procedures, supervision, and review.",
+    "concept": [
+      "Audit quality begins before fieldwork. Firms need a system of quality management covering leadership, ethics, acceptance and continuance, resources, engagement performance, and monitoring.",
+      "Acceptance decisions matter because the wrong client can create ethical, commercial, reputational, and audit risk. Auditors should assess management integrity, competence, independence, and whether preconditions for audit exist.",
+      "At engagement level, direction, supervision, review, consultation, and engagement quality review help reduce the chance of inappropriate audit judgements."
+    ],
+    "examPoints": [
+      "Discuss why management integrity is critical before accepting an audit client.",
+      "Identify information needed when communicating with the previous auditor.",
+      "Explain engagement letters and why they reduce misunderstanding.",
+      "Apply quality control procedures to practical staff and file review scenarios."
+    ],
+    "examples": [
+      {
+        "title": "Previous auditor not reappointed",
+        "body": "If the prospective client refuses permission to contact the previous auditor, that may be a red flag suggesting management is hiding a dispute or integrity issue."
+      },
+      {
+        "title": "Complex new industry",
+        "body": "If the firm lacks experience in a specialized sector, acceptance may still be possible if suitable experts and training are available and independence is not affected."
+      }
+    ],
+    "mistakes": [
+      "Assuming profitable clients should always be accepted.",
+      "Ignoring whether the firm has the skills and time needed to perform the engagement properly.",
+      "Treating the engagement letter as an administrative formality instead of a risk-control document."
+    ],
+    "revision": [
+      "Good audits start with good acceptance decisions.",
+      "Management integrity and auditor competence are core acceptance tests.",
+      "The engagement letter clarifies scope, responsibilities, and reporting."
+    ]
+  },
+  {
+    "slug": "risk-assessment-planning",
+    "title": "Risk Assessment & Planning",
+    "summary": "Turn business understanding into a focused, risk-based audit plan and targeted responses.",
+    "concept": [
+      "Planning links entity knowledge to audit work. Auditors use inquiries, analytical procedures, and observation or inspection to understand the business, environment, accounting systems, and controls.",
+      "Risks of material misstatement may arise at financial statement level or assertion level. Strong exam answers connect a business fact to the specific misstatement risk that could result.",
+      "Materiality guides the depth and scope of testing. Performance materiality is usually set below overall materiality to reduce the risk that aggregate errors exceed the main threshold."
+    ],
+    "examPoints": [
+      "Explain how economic pressure, new systems, expansion, or financing needs raise audit risk.",
+      "Plan timing, staffing, specialists, and professional skepticism around the assessed risks.",
+      "Use assertion language when moving from risk identification to audit response.",
+      "Discuss materiality benchmarks and when profit before tax may not be appropriate."
+    ],
+    "examples": [
+      {
+        "title": "Loan covenant pressure",
+        "body": "If a client is close to breaching covenants, management may be motivated to overstate profits or net assets. Planning should focus on judgemental balances and year-end adjustments."
+      },
+      {
+        "title": "Implementation of a new ERP system",
+        "body": "A new system can create cut-off errors, interface failures, and weak access controls. Auditors may increase testing around migration, reconciliations, and controls."
+      }
+    ],
+    "mistakes": [
+      "Listing risks without explaining the financial statement effect.",
+      "Giving generic audit procedures that could apply to any scenario.",
+      "Ignoring the impact of unstable profits on materiality selection."
+    ],
+    "revision": [
+      "Risk assessment drives the entire audit plan.",
+      "Connect business events to specific misstatement risks.",
+      "Materiality affects scope, sample size, and evaluation."
+    ]
+  },
+  {
+    "slug": "audit-risk",
+    "title": "Audit Risk Model",
+    "summary": "Revise inherent risk, control risk, detection risk, and how the auditor adjusts work to keep audit risk acceptably low.",
+    "concept": [
+      "Audit risk is the risk of expressing an inappropriate opinion on materially misstated financial statements. It is often analyzed into inherent risk, control risk, and detection risk.",
+      "Inherent risk reflects susceptibility to misstatement before controls. Estimates, complex contracts, cash, and related parties often carry higher inherent risk.",
+      "Detection risk is the risk that audit procedures fail to detect a material misstatement. If inherent and control risk are high, auditors lower detection risk through more persuasive procedures."
+    ],
+    "examPoints": [
+      "Define the elements of audit risk clearly and separately.",
+      "Explain why control weaknesses increase the amount or quality of substantive testing required.",
+      "Use the audit risk model to justify changes in timing, staffing, and sample size.",
+      "Distinguish business risk from audit risk while showing how one can influence the other."
+    ],
+    "examples": [
+      {
+        "title": "High-value estimates",
+        "body": "Warranty provisions involve uncertainty and management judgement, so inherent risk is high. Auditors respond with stronger evidence, retrospective review, and challenge of assumptions."
+      },
+      {
+        "title": "Weak payroll controls",
+        "body": "If joiners and leavers are poorly authorized, control risk rises because fictitious or continued payments may not be prevented or detected internally."
+      }
+    ],
+    "mistakes": [
+      "Describing audit risk as only the risk of fraud.",
+      "Using the words inherent and control risk interchangeably.",
+      "Failing to explain how the auditor changes procedures in response to higher risk."
+    ],
+    "revision": [
+      "Audit risk = inappropriate opinion on misstated statements.",
+      "High inherent and control risk means lower acceptable detection risk.",
+      "Auditors reduce detection risk by doing stronger work, not by changing inherent risk."
+    ]
+  },
+  {
+    "slug": "internal-control",
+    "title": "Internal Control",
+    "summary": "Understand control objectives, design weaknesses, and the recommendations auditors should communicate.",
+    "concept": [
+      "Internal control supports reliable reporting, efficient operations, and compliance. It can reduce risk but cannot eliminate it due to human error, collusion, override, and cost constraints.",
+      "Auditors assess the design and implementation of controls to decide whether reliance may be possible. Effective controls can support a mixed audit approach, while weak controls increase substantive work.",
+      "A high-scoring control deficiency answer explains the weakness, the implication, and a practical recommendation suited to the client's size."
+    ],
+    "examPoints": [
+      "Apply segregation of duties to purchases, revenue, payroll, inventory, and cash.",
+      "Identify deficiencies in authorization, review, reconciliations, and physical controls.",
+      "Write management letter points with implication and recommendation.",
+      "Differentiate tests of controls from substantive procedures."
+    ],
+    "examples": [
+      {
+        "title": "Supplier master file changes",
+        "body": "If one employee can add suppliers and process payments, fictitious suppliers could be created. Independent review of supplier amendments and payment runs would reduce risk."
+      },
+      {
+        "title": "Inventory counts without supervision",
+        "body": "If staff count inventory in their own areas with no checks, counts may be biased or inaccurate. Count teams, instructions, and follow-up on differences improve reliability."
+      }
+    ],
+    "mistakes": [
+      "Writing recommendations that are too vague, such as saying controls should be improved.",
+      "Ignoring the business consequence of the weakness.",
+      "Mixing up control deficiencies with audit procedures."
+    ],
+    "revision": [
+      "Controls reduce risk but never remove it fully.",
+      "Use deficiency, implication, recommendation.",
+      "Segregation of duties is a recurring AA theme."
+    ]
+  },
+  {
+    "slug": "audit-evidence",
+    "title": "Audit Evidence",
+    "summary": "Learn how to obtain sufficient appropriate evidence and design procedures around assertions.",
+    "concept": [
+      "Audit evidence must be sufficient in quantity and appropriate in quality. Higher-risk areas usually need stronger and more persuasive evidence.",
+      "Reliability depends on source and form. Evidence from independent external sources or obtained directly by the auditor is generally stronger than internally generated or oral evidence.",
+      "Assertions such as existence, completeness, valuation, rights and obligations, cut-off, and presentation help the auditor design procedures that address the real risk."
+    ],
+    "examPoints": [
+      "Use assertion language when writing procedures.",
+      "Explain why post year-end events, confirmations, and reperformance can be persuasive.",
+      "Tailor evidence gathering to estimates, inventory, receivables, provisions, and cash.",
+      "Challenge weak evidence such as photocopies, management explanations, or reports from poorly controlled systems."
+    ],
+    "examples": [
+      {
+        "title": "Receivables existence",
+        "body": "A direct confirmation from the customer is persuasive for existence, but non-responses require alternative work such as inspecting post year-end cash receipts."
+      },
+      {
+        "title": "Provision valuation",
+        "body": "To test a legal provision, auditors may inspect correspondence, review post year-end settlement, and consider expert advice rather than relying on management alone."
+      }
+    ],
+    "mistakes": [
+      "Restating the risk instead of describing a procedure.",
+      "Choosing the wrong assertion, such as testing existence when completeness is the issue.",
+      "Using verbs like check or review without stating what evidence is inspected."
+    ],
+    "revision": [
+      "Evidence must be sufficient and appropriate.",
+      "External and directly obtained evidence is usually stronger.",
+      "Good procedures clearly match the assertion."
+    ]
+  },
+  {
+    "slug": "sampling-analytics",
+    "title": "Sampling & Analytical Procedures",
+    "summary": "Use sampling and analytics intelligently during planning, substantive work, and final review.",
+    "concept": [
+      "Sampling allows auditors to draw conclusions about a population without testing every item. It can be statistical or non-statistical, but it must still be planned and evaluated carefully.",
+      "Analytical procedures compare recorded amounts or ratios with expectations. They are useful at planning, as substantive procedures in suitable situations, and at the overall review stage.",
+      "The effectiveness of analytics depends on predictability, reliability of data, and the precision of expectations. Weak data means weak conclusions."
+    ],
+    "examPoints": [
+      "Discuss sampling risk and non-sampling risk.",
+      "Explain when substantive analytical procedures may be more effective than detailed tests.",
+      "Use ratio changes and trends to identify unusual movements requiring follow-up.",
+      "Evaluate why extrapolated errors or unusual items may affect conclusions."
+    ],
+    "examples": [
+      {
+        "title": "Gross profit decline",
+        "body": "A fall in gross profit margin may indicate pricing pressure, theft, purchase misclassification, or inventory valuation issues. Auditors should investigate rather than accept the movement at face value."
+      },
+      {
+        "title": "Payroll analytics",
+        "body": "If employee numbers are stable but payroll expense rises sharply, auditors may investigate pay rises, overtime, bonus accruals, or fictitious employees."
+      }
+    ],
+    "mistakes": [
+      "Treating analytics as enough evidence without assessing data reliability.",
+      "Ignoring the reasons why sampled items were selected.",
+      "Failing to project sample errors to the wider population where appropriate."
+    ],
+    "revision": [
+      "Sampling is efficient but does not remove risk.",
+      "Analytics work best with predictable relationships and reliable data.",
+      "Unexpected trends should trigger follow-up, not assumptions."
+    ]
+  },
+  {
+    "slug": "fraud-laws-regulations",
+    "title": "Fraud, Laws & Regulations",
+    "summary": "Revise management fraud risk, auditor responsibilities, professional skepticism, and reporting implications.",
+    "concept": [
+      "The primary responsibility for preventing and detecting fraud lies with management and those charged with governance, but auditors must maintain professional skepticism throughout the audit.",
+      "Fraud risk is higher where incentives, opportunities, and rationalization exist. Revenue recognition, journal entries, estimates, and management override are common exam areas.",
+      "Non-compliance with laws and regulations may create misstatements, penalties, going concern issues, or reporting obligations. Auditors should understand the legal framework relevant to the client."
+    ],
+    "examPoints": [
+      "Explain the difference between fraud and error.",
+      "Discuss management override and journal testing.",
+      "Apply skepticism to contradictory explanations or missing evidence.",
+      "Identify when matters should be communicated to governance or regulators."
+    ],
+    "examples": [
+      {
+        "title": "Round-sum journals near year-end",
+        "body": "Manual journals posted late in the reporting period to revenue or reserves may indicate override. Auditors should inspect support, authorization, and commercial rationale."
+      },
+      {
+        "title": "Environmental penalties",
+        "body": "Breach of environmental law may require fines, provisions, or disclosure. The auditor should consider both financial statement impact and whether governance has been informed."
+      }
+    ],
+    "mistakes": [
+      "Saying auditors are responsible for preventing fraud.",
+      "Assuming honest management means fraud risk is low.",
+      "Ignoring the possible reporting and disclosure consequences of legal breaches."
+    ],
+    "revision": [
+      "Management prevents fraud; auditors assess and respond to fraud risk.",
+      "Override, journals, and estimates are key high-risk areas.",
+      "Legal non-compliance can affect recognition, disclosure, and reporting."
+    ]
+  },
+  {
+    "slug": "inventory-auditing",
+    "title": "Inventory & Count Procedures",
+    "summary": "Focus on attendance at inventory counts, valuation testing, and common pitfalls around existence and completeness.",
+    "concept": [
+      "Inventory is often material and judgmental, so it attracts frequent exam attention. Auditors attend counts to observe procedures, perform test counts, and evaluate whether management's count process is reliable.",
+      "Attendance at inventory count supports existence and condition, but not valuation by itself. Valuation requires additional work on cost, net realizable value, and obsolete items.",
+      "Where attendance is impracticable, alternative procedures are needed. If enough evidence cannot be obtained, reporting consequences may arise."
+    ],
+    "examPoints": [
+      "Describe procedures before, during, and after the inventory count.",
+      "Test cut-off around goods received and goods dispatched.",
+      "Apply lower of cost and net realizable value to damaged or slow-moving items.",
+      "Explain reporting implications if attendance was impossible and alternative evidence is weak."
+    ],
+    "examples": [
+      {
+        "title": "Year-end count instructions",
+        "body": "Before the count, auditors review count instructions, identify high-value lines, and note locations such as third-party warehouses that may require separate confirmation."
+      },
+      {
+        "title": "Obsolete stock",
+        "body": "If an item has not sold for months and the latest sales price is below cost, valuation may need a write-down even if the quantity counted is correct."
+      }
+    ],
+    "mistakes": [
+      "Writing only count attendance procedures and forgetting valuation.",
+      "Assuming observing the count proves ownership.",
+      "Ignoring third-party held inventory and cut-off around year-end."
+    ],
+    "revision": [
+      "Count attendance supports existence and condition.",
+      "Valuation still needs separate evidence.",
+      "Inventory questions usually involve count plus cut-off plus NRV."
+    ]
+  },
+  {
+    "slug": "groups-related-parties",
+    "title": "Group Audits & Related Parties",
+    "summary": "Handle group reporting risks, component communication, and the disclosure issues created by related party transactions.",
+    "concept": [
+      "Group audits create extra complexity because multiple components, teams, and reporting deadlines must be coordinated. The group auditor remains responsible for the group opinion.",
+      "Significant components may require direct involvement from the group auditor, especially where risk is high or local teams are not well known.",
+      "Related party transactions are risky because they may be undisclosed, non-commercial, or used to manipulate results. Auditors should stay alert to unusual terms and relationships."
+    ],
+    "examPoints": [
+      "Explain the responsibilities of the group auditor versus component auditors.",
+      "Discuss component instructions, materiality, and review of component work.",
+      "Identify indicators of undisclosed related parties.",
+      "Test whether related party balances and transactions are properly authorized and disclosed."
+    ],
+    "examples": [
+      {
+        "title": "Large overseas subsidiary",
+        "body": "If a foreign subsidiary is financially significant and carries major inventory risk, the group auditor may visit the component team, review working papers, and communicate directly on key issues."
+      },
+      {
+        "title": "Sales to directors' businesses",
+        "body": "Transactions may appear genuine, but unusual pricing or lack of disclosure can still create a material related party issue."
+      }
+    ],
+    "mistakes": [
+      "Assuming the group auditor can pass responsibility to component auditors.",
+      "Focusing only on balances and forgetting disclosure.",
+      "Missing related parties because questions are framed as ordinary transactions."
+    ],
+    "revision": [
+      "The group auditor keeps responsibility for the group opinion.",
+      "Significant components need stronger involvement.",
+      "Related party issues often center on completeness of disclosure."
+    ]
+  },
+  {
+    "slug": "going-concern",
+    "title": "Going Concern",
+    "summary": "Assess financial distress indicators, management plans, disclosures, and the reporting impact of uncertainty.",
+    "concept": [
+      "Going concern assumes the entity will continue operating for the foreseeable future. Auditors evaluate whether management's use of the basis is appropriate and whether material uncertainty exists.",
+      "Warning signs include recurring losses, cash flow problems, breached covenants, key supplier loss, litigation, and inability to refinance debt.",
+      "Auditors should test management forecasts, challenge assumptions, review post year-end events, and assess whether disclosures are adequate."
+    ],
+    "examPoints": [
+      "Identify both financial and operational indicators of going concern problems.",
+      "Explain audit procedures over cash flow forecasts and financing plans.",
+      "Distinguish between appropriate use of going concern with material uncertainty and inappropriate use of the basis.",
+      "Link disclosure quality to the form of audit report."
+    ],
+    "examples": [
+      {
+        "title": "Covenant breach after year-end",
+        "body": "If a bank facility becomes repayable on demand and waiver has not been obtained, liquidity risk may be severe and the going concern assessment may change."
+      },
+      {
+        "title": "Reliance on one major customer",
+        "body": "If that customer is lost after year-end, future cash generation may be threatened even if the latest financial statements still show profit."
+      }
+    ],
+    "mistakes": [
+      "Treating any uncertainty as proof the basis is wrong.",
+      "Accepting optimistic forecasts without testing assumptions.",
+      "Forgetting that adequate disclosure may still allow an unmodified opinion with a separate section on material uncertainty."
+    ],
+    "revision": [
+      "Going concern questions need indicators, procedures, and reporting impact.",
+      "Test forecasts, financing, and post year-end events.",
+      "Disclosure quality often drives the final reporting outcome."
+    ]
+  },
+  {
+    "slug": "subsequent-events",
+    "title": "Subsequent Events",
+    "summary": "Separate adjusting from non-adjusting events and understand the auditor's responsibilities before and after the report date.",
+    "concept": [
+      "Events after the reporting period may provide evidence of conditions existing at year-end or may relate to conditions arising afterward. Adjusting events affect the figures; non-adjusting events may require disclosure only.",
+      "Auditors perform procedures up to the date of the auditor's report to identify subsequent events that may require amendment of the financial statements.",
+      "If a fact becomes known after the report date, the auditor's response depends on timing, significance, and whether management amends the statements."
+    ],
+    "examPoints": [
+      "Classify events correctly as adjusting or non-adjusting.",
+      "Describe audit procedures such as reading minutes, reviewing post year-end transactions, and asking management about significant events.",
+      "Explain management refusal to amend the statements where a material event has arisen.",
+      "Address the auditor's duties after the report has been signed."
+    ],
+    "examples": [
+      {
+        "title": "Customer bankruptcy",
+        "body": "If a major receivable customer goes bankrupt shortly after year-end and the financial difficulty existed before year-end, the event is usually adjusting because it gives evidence about recoverability at the reporting date."
+      },
+      {
+        "title": "Factory destroyed after year-end",
+        "body": "A fire after year-end is generally non-adjusting if the condition did not exist at year-end, but it may still need disclosure if material."
+      }
+    ],
+    "mistakes": [
+      "Using the event date alone instead of asking whether the underlying condition existed at year-end.",
+      "Ignoring disclosure requirements for major non-adjusting events.",
+      "Forgetting the auditor still has responsibilities after year-end up to the report date."
+    ],
+    "revision": [
+      "Ask whether the condition existed at year-end.",
+      "Adjusting events change numbers; non-adjusting events may change disclosure.",
+      "Subsequent event procedures continue up to the audit report date."
+    ]
+  },
+  {
+    "slug": "audit-reporting",
+    "title": "Audit Reporting",
+    "summary": "Revise unmodified and modified opinions, material uncertainty sections, and emphasis of matter treatment.",
+    "concept": [
+      "An unmodified opinion is issued where sufficient appropriate evidence has been obtained and the financial statements are prepared, in all material respects, in accordance with the framework.",
+      "Modified opinions arise from material misstatement or inability to obtain sufficient appropriate evidence. The impact depends on whether the issue is material and whether it is pervasive.",
+      "Emphasis of matter and other matter paragraphs do not modify the opinion. Separate sections such as going concern material uncertainty also need to be distinguished clearly from modifications."
+    ],
+    "examPoints": [
+      "Apply material versus pervasive when choosing qualified, adverse, or disclaimer.",
+      "Distinguish modified opinion from emphasis of matter and material uncertainty related to going concern.",
+      "Explain the basis for opinion wording as well as the opinion itself.",
+      "Discuss reporting consequences of scope limitations, misstatements, and inadequate disclosure."
+    ],
+    "examples": [
+      {
+        "title": "Material inventory overstatement",
+        "body": "If inventory is materially overstated but limited to one balance, a qualified opinion is often appropriate because the misstatement is material but not pervasive."
+      },
+      {
+        "title": "Lack of evidence over multiple balances",
+        "body": "If accounting records are destroyed and many areas cannot be tested, the scope limitation may be pervasive, leading to a disclaimer."
+      }
+    ],
+    "mistakes": [
+      "Calling an emphasis of matter a modified opinion.",
+      "Naming the opinion type without explaining why the issue is or is not pervasive.",
+      "Ignoring the role of disclosures in reporting decisions."
+    ],
+    "revision": [
+      "Modified opinions come from misstatement or lack of evidence.",
+      "Material but not pervasive usually means qualified.",
+      "Emphasis of matter highlights a disclosed issue without modifying the opinion."
+    ]
+  }
+]

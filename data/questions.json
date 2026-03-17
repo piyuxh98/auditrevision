@@ -1,0 +1,326 @@
+[
+    {
+        "question":  "Which statement best describes the responsibility of management in an external audit?",
+        "options":  [
+                        "A. Management is responsible for expressing the audit opinion",
+                        "B. Management is responsible for preparing the financial statements and maintaining internal control",
+                        "C. Management is responsible for providing absolute assurance to shareholders",
+                        "D. Management is responsible only for approving the audit report"
+                    ],
+        "answer":  "B. Management is responsible for preparing the financial statements and maintaining internal control",
+        "explanation":  "Management prepares the financial statements and is responsible for internal controls. The auditor\u0027s role is to obtain evidence and express an opinion."
+    },
+    {
+        "question":  "Which of the following is an example of a self-review threat?",
+        "options":  [
+                        "A. The auditor owns shares in the client",
+                        "B. The auditor prepares the financial statements and then audits them",
+                        "C. The client threatens to replace the audit firm",
+                        "D. The audit partner has acted for the client for many years"
+                    ],
+        "answer":  "B. The auditor prepares the financial statements and then audits them",
+        "explanation":  "A self-review threat arises when the auditor is placed in the position of checking work that the firm has previously performed."
+    },
+    {
+        "question":  "Before accepting a new audit engagement, which factor is most important?",
+        "options":  [
+                        "A. Whether the client is highly profitable",
+                        "B. Whether management appears honest and the firm can remain independent",
+                        "C. Whether the client will allow a reduced fee this year",
+                        "D. Whether the previous auditor was a small firm"
+                    ],
+        "answer":  "B. Whether management appears honest and the firm can remain independent",
+        "explanation":  "Client acceptance decisions should focus on management integrity, independence, competence, and whether audit preconditions exist."
+    },
+    {
+        "question":  "Which statement best explains the level of assurance provided by an external audit?",
+        "options":  [
+                        "A. Absolute assurance that the financial statements are correct",
+                        "B. Reasonable assurance that the financial statements are free from material misstatement",
+                        "C. Limited assurance that all fraud has been detected",
+                        "D. Certification that management has operated effectively"
+                    ],
+        "answer":  "B. Reasonable assurance that the financial statements are free from material misstatement",
+        "explanation":  "An external audit provides reasonable assurance, not certainty. The focus is on material misstatements arising from fraud or error."
+    },
+    {
+        "question":  "During planning, which procedure is primarily used to understand the entity and identify risks of material misstatement?",
+        "options":  [
+                        "A. Agreeing the financial statements to the trial balance",
+                        "B. Obtaining written representations",
+                        "C. Risk assessment procedures such as inquiry, analytics, and inspection",
+                        "D. Reviewing the final audit report"
+                    ],
+        "answer":  "C. Risk assessment procedures such as inquiry, analytics, and inspection",
+        "explanation":  "Risk assessment procedures are performed early to understand the business, environment, and controls so that the audit plan is targeted."
+    },
+    {
+        "question":  "If inherent risk and control risk are assessed as high, what should happen to detection risk?",
+        "options":  [
+                        "A. It can be increased because more audit work is unnecessary",
+                        "B. It should be ignored because only business risk matters",
+                        "C. It should be reduced by performing more persuasive audit procedures",
+                        "D. It becomes equal to control risk"
+                    ],
+        "answer":  "C. It should be reduced by performing more persuasive audit procedures",
+        "explanation":  "When inherent and control risks are high, the auditor reduces acceptable detection risk by increasing the extent or quality of audit procedures."
+    },
+    {
+        "question":  "Which control weakness most directly increases the risk of unauthorized payments?",
+        "options":  [
+                        "A. Bank reconciliations are reviewed independently each month",
+                        "B. The same employee sets up suppliers and authorizes supplier payments",
+                        "C. Purchase invoices are matched to goods received notes",
+                        "D. Credit notes are approved by the sales manager"
+                    ],
+        "answer":  "B. The same employee sets up suppliers and authorizes supplier payments",
+        "explanation":  "Combining supplier setup with payment authorization weakens segregation of duties and increases the chance of fictitious suppliers or unauthorized payments."
+    },
+    {
+        "question":  "Which statement is true about tests of controls?",
+        "options":  [
+                        "A. They are performed to detect monetary misstatements directly",
+                        "B. They are used to obtain evidence that controls operated effectively",
+                        "C. They replace all substantive procedures",
+                        "D. They are only relevant in final audit review"
+                    ],
+        "answer":  "B. They are used to obtain evidence that controls operated effectively",
+        "explanation":  "Tests of controls provide evidence on the operating effectiveness of controls. They are different from substantive procedures, which target misstatements directly."
+    },
+    {
+        "question":  "Which source of evidence is usually the most reliable?",
+        "options":  [
+                        "A. Oral explanation from the finance director",
+                        "B. Photocopies provided by management",
+                        "C. External confirmation received directly by the auditor",
+                        "D. A report generated from a system with weak controls"
+                    ],
+        "answer":  "C. External confirmation received directly by the auditor",
+        "explanation":  "Evidence obtained directly from an independent external source is usually more reliable than internally generated or verbal evidence."
+    },
+    {
+        "question":  "Which assertion is most directly tested when the auditor traces goods received notes to purchase invoices not yet recorded?",
+        "options":  [
+                        "A. Existence",
+                        "B. Completeness",
+                        "C. Valuation",
+                        "D. Rights and obligations"
+                    ],
+        "answer":  "B. Completeness",
+        "explanation":  "Tracing from source documents into the accounting records tests whether all transactions that should be recorded have been included."
+    },
+    {
+        "question":  "Substantive analytical procedures are most effective when: ",
+        "options":  [
+                        "A. Relationships are unpredictable and data is unreliable",
+                        "B. There are no prior year figures available",
+                        "C. Relationships are predictable and the underlying data is reliable",
+                        "D. Controls are always weak"
+                    ],
+        "answer":  "C. Relationships are predictable and the underlying data is reliable",
+        "explanation":  "Analytical procedures are stronger when expectations can be developed precisely and the data used is dependable."
+    },
+    {
+        "question":  "A sharp fall in gross profit margin should normally lead the auditor to: ",
+        "options":  [
+                        "A. Ignore the movement if revenue has increased",
+                        "B. Investigate possible pricing, costing, or inventory issues",
+                        "C. Issue a qualified opinion immediately",
+                        "D. Reduce substantive testing"
+                    ],
+        "answer":  "B. Investigate possible pricing, costing, or inventory issues",
+        "explanation":  "Unexpected ratio movements are indicators that further investigation is needed. They do not justify immediate reporting changes on their own."
+    },
+    {
+        "question":  "Who has primary responsibility for the prevention and detection of fraud?",
+        "options":  [
+                        "A. External auditors",
+                        "B. Internal auditors only",
+                        "C. Management and those charged with governance",
+                        "D. Shareholders"
+                    ],
+        "answer":  "C. Management and those charged with governance",
+        "explanation":  "Auditors assess fraud risk and respond to it, but management has primary responsibility for prevention and detection."
+    },
+    {
+        "question":  "Which item is a classic indicator of management override risk?",
+        "options":  [
+                        "A. Pre-numbered purchase orders",
+                        "B. Round-sum manual journal entries posted near year-end",
+                        "C. Daily cash banking",
+                        "D. Monthly payroll reconciliations"
+                    ],
+        "answer":  "B. Round-sum manual journal entries posted near year-end",
+        "explanation":  "Unusual manual journals, especially near year-end, may indicate override and should be examined carefully."
+    },
+    {
+        "question":  "Why does the auditor attend a year-end inventory count?",
+        "options":  [
+                        "A. To value the inventory directly",
+                        "B. To observe procedures and perform test counts as evidence of existence and condition",
+                        "C. To take over management\u0027s counting responsibility",
+                        "D. To confirm legal ownership of all inventory"
+                    ],
+        "answer":  "B. To observe procedures and perform test counts as evidence of existence and condition",
+        "explanation":  "Attendance supports the reliability of the count process and provides evidence on existence and condition, but not full valuation or ownership by itself."
+    },
+    {
+        "question":  "Which procedure is most relevant when testing inventory valuation?",
+        "options":  [
+                        "A. Observing count teams only",
+                        "B. Reviewing the latest sales prices and supplier invoices",
+                        "C. Confirming inventory with trade receivables customers",
+                        "D. Recalculating depreciation"
+                    ],
+        "answer":  "B. Reviewing the latest sales prices and supplier invoices",
+        "explanation":  "Inventory valuation often requires evidence of cost and net realizable value, including supplier invoices and post year-end selling prices."
+    },
+    {
+        "question":  "In a group audit, who remains responsible for the group audit opinion?",
+        "options":  [
+                        "A. The component auditor for the largest subsidiary",
+                        "B. The directors of the parent only",
+                        "C. The group engagement partner",
+                        "D. The internal audit team"
+                    ],
+        "answer":  "C. The group engagement partner",
+        "explanation":  "Even where component auditors perform work, responsibility for the group opinion remains with the group engagement partner."
+    },
+    {
+        "question":  "Related party transactions are especially risky because they may: ",
+        "options":  [
+                        "A. Always be illegal",
+                        "B. Be undisclosed or not conducted on normal commercial terms",
+                        "C. Never affect the financial statements",
+                        "D. Replace the need for confirmations"
+                    ],
+        "answer":  "B. Be undisclosed or not conducted on normal commercial terms",
+        "explanation":  "Related party transactions may be hidden, unusual, or used to manipulate results, making disclosure and authorization important audit issues."
+    },
+    {
+        "question":  "Which of the following is the best indicator of a going concern problem?",
+        "options":  [
+                        "A. A small increase in administrative expenses",
+                        "B. Recurring operating losses and cash flow difficulties",
+                        "C. A new finance director joining the board",
+                        "D. A temporary fall in inventory levels"
+                    ],
+        "answer":  "B. Recurring operating losses and cash flow difficulties",
+        "explanation":  "Persistent losses and cash strain are classic financial indicators that the entity may not be able to continue as a going concern."
+    },
+    {
+        "question":  "If management\u0027s going concern disclosures are adequate but a material uncertainty exists, the auditor will usually: ",
+        "options":  [
+                        "A. Issue an adverse opinion",
+                        "B. Issue an unmodified opinion with a separate material uncertainty section",
+                        "C. Issue a disclaimer automatically",
+                        "D. Omit any reference to going concern"
+                    ],
+        "answer":  "B. Issue an unmodified opinion with a separate material uncertainty section",
+        "explanation":  "Where the basis is appropriate and disclosures are adequate, the opinion can remain unmodified, but the material uncertainty must be highlighted separately."
+    },
+    {
+        "question":  "A major customer goes bankrupt shortly after year-end because of financial problems that existed before year-end. This is usually: ",
+        "options":  [
+                        "A. A non-adjusting event requiring no action",
+                        "B. An adjusting event affecting receivable valuation",
+                        "C. An event that only affects next year\u0027s accounts",
+                        "D. Automatically grounds for a disclaimer"
+                    ],
+        "answer":  "B. An adjusting event affecting receivable valuation",
+        "explanation":  "The bankruptcy provides evidence about a condition existing at the reporting date, so the receivable may need to be adjusted."
+    },
+    {
+        "question":  "A material misstatement is confined to inventory and is not pervasive. Which opinion is most likely?",
+        "options":  [
+                        "A. Unmodified opinion",
+                        "B. Qualified opinion",
+                        "C. Adverse opinion",
+                        "D. Disclaimer of opinion"
+                    ],
+        "answer":  "B. Qualified opinion",
+        "explanation":  "A material but not pervasive misstatement typically results in a qualified opinion using \u0027except for\u0027 wording."
+    },
+    {
+        "question":  "Which opinion is most appropriate where there is a pervasive lack of sufficient appropriate audit evidence?",
+        "options":  [
+                        "A. Unmodified opinion",
+                        "B. Qualified opinion",
+                        "C. Adverse opinion",
+                        "D. Disclaimer of opinion"
+                    ],
+        "answer":  "D. Disclaimer of opinion",
+        "explanation":  "A pervasive scope limitation means the auditor cannot obtain enough evidence across multiple areas, which may require a disclaimer."
+    },
+    {
+        "question":  "Why is performance materiality usually set below overall materiality?",
+        "options":  [
+                        "A. To make the audit report easier to draft",
+                        "B. To ensure all immaterial errors are corrected",
+                        "C. To reduce the risk that aggregate uncorrected and undetected misstatements exceed overall materiality",
+                        "D. To replace the need for substantive testing"
+                    ],
+        "answer":  "C. To reduce the risk that aggregate uncorrected and undetected misstatements exceed overall materiality",
+        "explanation":  "Performance materiality creates a lower working threshold so the audit retains a safety margin against overall materiality being exceeded."
+    },
+    {
+        "question":  "A company has expanded rapidly into a new overseas market and implemented a new IT system during the year. Which audit response is most appropriate?",
+        "options":  [
+                        "A. Reduce substantive testing because growth indicates stronger performance",
+                        "B. Increase focus on risk assessment, system controls, and year-end cut-off testing",
+                        "C. Rely fully on management explanations about the new system",
+                        "D. Postpone all audit work until after the year-end financial statements are drafted"
+                    ],
+        "answer":  "B. Increase focus on risk assessment, system controls, and year-end cut-off testing",
+        "explanation":  "Rapid expansion and system change raise risk of misstatement in processing, controls, and cut-off. The auditor should respond with stronger planning and targeted testing.",
+        "source":  "AA PYQ Style"
+    },
+    {
+        "question":  "During the audit of receivables, the auditor finds several old balances that remain unpaid after year-end. What is the best next step?",
+        "options":  [
+                        "A. Assume they are recoverable because they were recorded by management",
+                        "B. Ignore them if the total receivables balance is material",
+                        "C. Review post year-end cash receipts, correspondence, and consider allowance for expected credit losses",
+                        "D. Remove them from the sample and test newer balances only"
+                    ],
+        "answer":  "C. Review post year-end cash receipts, correspondence, and consider allowance for expected credit losses",
+        "explanation":  "Old unpaid balances may indicate irrecoverability. The auditor should gather evidence from subsequent receipts and supporting correspondence, then evaluate whether impairment is required.",
+        "source":  "AA PYQ Style"
+    },
+    {
+        "question":  "Which procedure would best test whether liabilities at year-end are complete?",
+        "options":  [
+                        "A. Inspect a sample of sales invoices issued before year-end",
+                        "B. Trace post year-end supplier payments and unmatched goods received notes back to the year-end payables listing",
+                        "C. Recalculate depreciation on non-current assets",
+                        "D. Obtain a bank confirmation for cash balances only"
+                    ],
+        "answer":  "B. Trace post year-end supplier payments and unmatched goods received notes back to the year-end payables listing",
+        "explanation":  "To test completeness of liabilities, auditors commonly look for obligations that should have been recorded at year-end but may have been omitted.",
+        "source":  "AA PYQ Style"
+    },
+    {
+        "question":  "Management refuses to disclose a material uncertainty related to going concern. The auditor believes the omission is material but not pervasive. What opinion is most likely?",
+        "options":  [
+                        "A. Unmodified opinion",
+                        "B. Qualified opinion",
+                        "C. Adverse opinion",
+                        "D. Disclaimer of opinion"
+                    ],
+        "answer":  "B. Qualified opinion",
+        "explanation":  "Where a required disclosure is materially misstated or omitted and the effect is material but not pervasive, a qualified opinion is generally appropriate.",
+        "source":  "AA PYQ Style"
+    },
+    {
+        "question":  "An audit senior notices several large manual journals posted just before year-end to increase revenue. Which risk is most clearly indicated?",
+        "options":  [
+                        "A. Familiarity threat",
+                        "B. Control deficiency in payroll only",
+                        "C. Management override of controls and possible fraud risk",
+                        "D. Understatement of non-current assets"
+                    ],
+        "answer":  "C. Management override of controls and possible fraud risk",
+        "explanation":  "Unusual manual journals posted near year-end are a classic fraud indicator and should trigger detailed testing of authorization, support, and commercial rationale.",
+        "source":  "AA PYQ Style"
+    }
+]
